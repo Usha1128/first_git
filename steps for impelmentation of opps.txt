@@ -1,0 +1,12 @@
+step1;class create chesthamu(fields,methods,constructor)->define chesthamu
+Step2: object creation
+Step3: class lo vuna member ki values send chesthamu 
+	1=>(objectname.mmebername =value) main method or main class
+        2=> setter method=>giving values to the class member 
+        3=> constructor=>giving values to the class members 
+step4:  getter=> values are getting from class member 
+        through function we will get the values  from class to the main class 
+step5:class lo ayina print chesukovachu
+      main class lo values ni get chesukonie print chesthamu
+
+     
